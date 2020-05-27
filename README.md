@@ -14,15 +14,20 @@ We encourage makers of all skill levels to participate. this is an open communit
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca.
 
 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/SetupArduinoBoard.md)
+
 [More Step by Step](https://github.com/PamelaAnne/SocialRobot/blob/master/MoreStepByStep.md)
 
 ## Arduino code
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
 
 [Install code](https://github.com/Radiowendy26/Python/edit/master/README.md)
+
 [Change the code to your situation](https://github.com/Radiowendy26/Python/edit/master/README.md)
+
 [Run code](https://github.com/Radiowendy26/Python/edit/master/README.md)
+
 [Error solving](https://github.com/Radiowendy26/Python/edit/master/README.md)
+
 [Explain code](https://github.com/Radiowendy26/Python/edit/master/README.md)
 
 
@@ -30,6 +35,7 @@ With the basic setup your able to let your robots communicate over distance with
 With the basic setup of Shiftr.io, your robots can communicate with each other over distance. Shiftr.io provides you with the ability to share your data and access data of others. Sharing data publicly is encouraged by the platform's design. In the future, we plan to have additional features that allow more interactions between users and their namespaces.
 
 [Shiftr.io](https://shiftr.io/)
+
 [Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Shiftr.ioExplained.md)
 
 ## Stories
