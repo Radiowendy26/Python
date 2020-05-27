@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Steps how it work
 
-You can use the [editor on GitHub](https://github.com/Radiowendy26/Python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Begin with a basic setup, which consists of a simple LED protocol, by following the simple step by step instructions provided.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After that, it’s time to explore input and output sensors and actuators. Here you can really get creative, the possibilities are endless ;) 
 
-### Markdown
+Get stuck? No problem! We have set up a forum for any extra support you might need. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We encourage makers of all skill levels to participate. this is an open community and beginners are more than welcome. 
 
-```markdown
-Syntax highlighted code block
+### Making the robot
 
-# Header 1
-## Header 2
-### Header 3
+## Arduino Schematics
+With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca.
 
-- Bulleted
-- List
+[SCHEMA EXPLAINED](https://github.com/Radiowendy26/Python/edit/master/README.md)
 
-1. Numbered
-2. List
+## Arduino code
+With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
 
-**Bold** and _Italic_ and `Code` text
+[INSTALL CODE](https://github.com/Radiowendy26/Python/edit/master/README.md)
+[VIEW GUIDE](https://github.com/Radiowendy26/Python/edit/master/README.md)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Shiftr.io
+With the basic setup of Shiftr.io, your robots can communicate with each other over distance. Shiftr.io provides you with the ability to share your data and access data of others. Sharing data publicly is encouraged by the platform's design. In the future, we plan to have additional features that allow more interactions between users and their namespaces.
 
-### Jekyll Themes
+[Shiftr.io](https://shiftr.io/)
+[Shiftr.io explained](https://github.com/Radiowendy26/Python/edit/master/README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Radiowendy26/Python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Stories
+We logged our experiences during the  making and testing of our bots in a daily journal. We noted moments of joy, painpoints and some reflections. Have a look through our stories and feel free to add your own!
 
-### Support or Contact
+[Stories](https://medium.com/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## What can I reflect on?
+Every experience of making and living with the bots will be different; from the features that we decide to implement, to the struggles/triumphs in making and then eventually in how we interact with our personalised bots. 
+We encourage you to capture these unique moments and thoughts by keeping a journal and taking pictures. What intregued you about the bot today? What brought you joy? What was frustrating? Any unexpected revelations?
+
+By sharing our experiences we can create a greater collective understanding of how social robotics can have a positive or negative influence in our lives. 
+
+Your social needs are unique and so your story will be too.
